@@ -10,7 +10,7 @@ const weatherApi = {
 
 const searchInputBox = document.getElementById('input-box');
 
-searchInputBox.addEventListener('keypress' , (event) => {
+searchInputBox.addEventListener('keypress' ,(event) => {
     if(event.keyCode == 13) {
 
         console.log(searchInputBox.value);
