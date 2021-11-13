@@ -5,7 +5,7 @@
 
 }
 body{
-    background-image: url('images/Landing.png');
+    background-image: url('images/Clear1.jpg');
     height: 100vh;
     overflow: hidden;
     background-repeat: no-repeat;
@@ -78,10 +78,10 @@ body{
     text-align: center;
     color: rgb(0, 0, 0);
     padding-top: 45px;   
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 200%;
+    font-family: 'Montserrat';
+    font-size: 300%;
     font-weight: bold; 
-    font-style: italic;
+    
 }
 
 .footer {
